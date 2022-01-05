@@ -11,8 +11,8 @@ import java.math.BigDecimal;
 
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 @EqualsAndHashCode
 @Entity(name = "cambio")
 public class Cambio implements Serializable {
